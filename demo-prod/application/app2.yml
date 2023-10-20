@@ -18,7 +18,7 @@ spec:
       - values_dev.yml
       parameters:
       - name: "container.image"
-        value: tomcat:latest
+        value: httpd:latest
 
   project: default
   syncPolicy:
