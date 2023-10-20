@@ -1,0 +1,6 @@
+# Dev Values 4 my HelmChart
+
+container:
+  image: tomcat:latest
+
+replicaCount: 4
