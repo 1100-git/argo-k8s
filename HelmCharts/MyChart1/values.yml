@@ -1,0 +1,6 @@
+# Dev Values 4 my HelmChart
+
+container:
+  image: nginx:latest
+
+replicaCount: 1
