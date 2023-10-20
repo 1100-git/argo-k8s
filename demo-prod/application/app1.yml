@@ -15,7 +15,7 @@ spec:
     targetRevision: HEAD
     helm:
       valueFiles:
-      - values_dev.yml
+      - values_prod.yml
       parameters:
       - name: "container.image"
         value: nginx:latest
