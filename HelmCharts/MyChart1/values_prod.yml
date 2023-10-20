@@ -3,4 +3,4 @@
 container:
   image: apache2:latest
 
-replicaCount: 4
+replicaCount: 6

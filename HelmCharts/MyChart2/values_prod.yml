@@ -3,4 +3,4 @@
 container:
   image: tomcat:latest
 
-replicaCount: 4
+replicaCount: 5

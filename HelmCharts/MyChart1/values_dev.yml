@@ -3,4 +3,4 @@
 container:
   image: nginx:latest
 
-replicaCount: 3
+replicaCount: 6
