@@ -18,7 +18,7 @@ spec:
       - values_prod.yml
       parameters:
       - name: "container.image"
-        value: httpd:latest
+        value: tomcat:8-jre8
 
   project: default
   syncPolicy:
