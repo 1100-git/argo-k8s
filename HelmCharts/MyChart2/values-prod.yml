@@ -1,6 +1,6 @@
 # Dev Values 4 my HelmChart
 
 container:
-  image: apache2:latest
+  image: tomcat:latest
 
 replicaCount: 4
